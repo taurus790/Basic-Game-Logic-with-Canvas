@@ -12,6 +12,7 @@ namespace Qatarlar1.Entities
 {
     public class Ball : GameEntity
     {
+        // // elə belə 
         public double Diameter { get; set; }
 
         public override void GameTick(double millisecondsElapsed)
